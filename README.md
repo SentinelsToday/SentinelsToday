@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SentinelsToday/.github/main/assets/logo.svg" width="120" alt="SentinelsToday">
+<img src="https://raw.githubusercontent.com/SentinelsToday/.github/main/assets/logo.svg" width="110" alt="SentinelsToday">
 
 # SentinelsToday
 
 ### Trust Infrastructure for Autonomous Machines
 
-[Website](https://sentinels.today) • [Documentation](https://sentinels.today/docs) • [X](https://x.com/sentinelstoday) • [Contact](mailto:admin@sentinels.today)
+[Website](https://sentinels.today) •
+[Documentation](https://sentinels.today/docs) •
+[X](https://x.com/sentinelstoday) •
+[Contact](mailto:admin@sentinels.today)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,cpp,docker,kubernetes,linux,git" />
 
 <br>
 
@@ -22,23 +29,29 @@ SentinelsToday builds trust infrastructure for autonomous machines.
 
 As robots, AI agents, vehicles, sensors, and edge systems become increasingly autonomous, they require verifiable identity, secure coordination, and auditable trust.
 
-Our mission is to provide the foundational infrastructure that allows machines to identify themselves, verify actions, establish reputation, and interact securely across distributed environments.
+We develop open infrastructure that enables machines to establish identity, verify actions, build reputation, and interact securely across distributed environments.
 
 ---
 
 ## Flagship
 
-### Sentinel Core
+### Sentinel Platform
 
-Trust engine for identity, attestation, and verification.
+Trust, verification, coordination, and machine identity.
 
-**Platforms**
+<br>
 
-![Windows](https://img.shields.io/badge/Windows-supported-blue)
-![Linux](https://img.shields.io/badge/Linux-supported-black)
-![macOS](https://img.shields.io/badge/macOS-supported-lightgrey)
-![Android](https://img.shields.io/badge/Android-supported-green)
-![iOS](https://img.shields.io/badge/iOS-supported-lightgrey)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,apple,android" />
+
+</p>
+
+<p align="center">
+
+Windows • Linux • macOS • Android • iOS • Embedded
+
+</p>
 
 <br>
 
@@ -75,14 +88,11 @@ Trust engine for identity, attestation, and verification.
 
 ## Technologies
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-14F195?logo=solana\&logoColor=black)
-![ROS2](https://img.shields.io/badge/ROS2-22314E)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,cpp,docker,kubernetes,react,nextjs,linux,git,github,vscode" />
+
+</div>
 
 ---
 
@@ -100,27 +110,33 @@ Open standards create stronger ecosystems.
 
 ## Community
 
-Documentation
-https://sentinels.today/docs
-
-Website
+**Website**
 https://sentinels.today
 
-X
+**Documentation**
+https://sentinels.today/docs
+
+**X**
 https://x.com/sentinelstoday
 
-Email
+**Email**
 [admin@sentinels.today](mailto:admin@sentinels.today)
 
-Telegram
+**Telegram**
 TBA
 
 ---
 
-Built for autonomous systems.
+<div align="center">
 
-Built for developers.
+### Built for Autonomous Systems
 
-Built for the future.
+Identity • Verification • Coordination • Trust
+
+<br>
+
+**SentinelsToday**
+
+https://sentinels.today
 
 </div>
