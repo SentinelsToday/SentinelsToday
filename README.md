@@ -1,269 +1,126 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SentinelsToday/.github/main/assets/logo.svg" width="140" alt="SentinelsToday Logo">
+<img src="https://raw.githubusercontent.com/SentinelsToday/.github/main/assets/logo.svg" width="120" alt="SentinelsToday">
 
 # SentinelsToday
 
 ### Trust Infrastructure for Autonomous Machines
 
-Autonomous Agents • Robotics • Machine Identity • Solana Infrastructure • Edge Systems
+[Website](https://sentinels.today) • [Documentation](https://sentinels.today/docs) • [X](https://x.com/sentinelstoday) • [Contact](mailto:admin@sentinels.today)
 
 <br>
 
-[Website](https://sentinels.today) •
-[Documentation](https://sentinels.today/docs) •
-[X](https://x.com/sentinelstoday) •
-[Contact](mailto:admin@sentinels.today)
-
-<br>
-
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-14F195?logo=solana&logoColor=black)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Yes-success)
+> Machine identity is not optional.
 
 </div>
 
 ---
 
-## Mission
+## About
 
-Machines are becoming autonomous.
+SentinelsToday builds trust infrastructure for autonomous machines.
 
-Robots, agents, sensors, vehicles, and edge devices increasingly make decisions without direct human supervision.
+As robots, AI agents, vehicles, sensors, and edge systems become increasingly autonomous, they require verifiable identity, secure coordination, and auditable trust.
 
-SentinelsToday is building the trust infrastructure that enables autonomous systems to establish identity, verify actions, coordinate securely, and operate across distributed environments.
-
-Our goal is simple:
-
-**Every autonomous machine should be able to prove who it is, what it has done, and why it can be trusted.**
+Our mission is to provide the foundational infrastructure that allows machines to identify themselves, verify actions, establish reputation, and interact securely across distributed environments.
 
 ---
 
-## Focus Areas
+## Flagship
 
-- Autonomous AI Agents
-- Robotics Infrastructure
-- Machine Identity
-- IoT & Edge Networks
-- Solana Integration
-- Device Attestation
-- DePIN Systems
-- Computer Vision
-- Autonomous Mobility
-- Developer Tooling
-- Fleet Management
-- Trust & Verification Systems
+### Sentinel Core
 
----
+Trust engine for identity, attestation, and verification.
 
-# Sentinel Ecosystem
+**Platforms**
 
-## Core Infrastructure
+![Windows](https://img.shields.io/badge/Windows-supported-blue)
+![Linux](https://img.shields.io/badge/Linux-supported-black)
+![macOS](https://img.shields.io/badge/macOS-supported-lightgrey)
+![Android](https://img.shields.io/badge/Android-supported-green)
+![iOS](https://img.shields.io/badge/iOS-supported-lightgrey)
 
-| Project | Description |
-|----------|-------------|
-| Sentinel Core | Identity, trust, attestation, and verification engine |
-| Sentinel Agent | Autonomous machine and agent runtime |
-| Sentinel Chain | Solana-based verification and attestation layer |
-| Sentinel Cloud | Fleet management APIs and backend services |
-| Sentinel SDK | Development toolkit for integration |
+<br>
+
+### Built On
+
+| Sentinel Core          | Sentinel Agent     | Sentinel Chain      |
+| ---------------------- | ------------------ | ------------------- |
+| Identity & Attestation | Autonomous Runtime | Solana Verification |
+
+| Sentinel Cloud   | Sentinel SDK      | Sentinel Edge |
+| ---------------- | ----------------- | ------------- |
+| Fleet Management | Developer Toolkit | Edge Runtime  |
 
 ---
 
-## Platform Layer
+## Ecosystem
 
-| Project | Description |
-|----------|-------------|
-| Sentinel Dashboard | Fleet operations and monitoring |
-| Sentinel Mobile | Mobile management interface |
-| Sentinel Firmware | Embedded device integration |
-| Sentinel Edge | Edge runtime for autonomous systems |
-
----
-
-## Developer Layer
-
-| Project | Description |
-|----------|-------------|
-| Sentinel Docs | Documentation platform |
-| Sentinel Website | Public website |
-| Sentinel Examples | Integration examples |
-| Sentinel CLI | Developer command-line tools |
+| Repository         | Description                                |
+| ------------------ | ------------------------------------------ |
+| sentinel-core      | Trust engine and identity registry         |
+| sentinel-agent     | Autonomous runtime for devices and agents  |
+| sentinel-chain     | Solana attestation and verification layer  |
+| sentinel-cloud     | Fleet management APIs and backend services |
+| sentinel-sdk       | Developer SDK and integrations             |
+| sentinel-edge      | Edge execution runtime                     |
+| sentinel-dashboard | Operations and monitoring                  |
+| sentinel-mobile    | Mobile management interface                |
+| sentinel-firmware  | Embedded device integration                |
+| sentinel-docs      | Documentation platform                     |
+| sentinel-website   | Public website                             |
+| .github            | Organization standards and workflows       |
 
 ---
 
-## Architecture
+## Technologies
 
-```text
-┌──────────────────────────────┐
-│ Autonomous Machines          │
-│ Robots • Agents • Vehicles   │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│ Sentinel Agent Runtime       │
-│ Coordination Layer           │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│ Sentinel Core                │
-│ Identity & Attestation       │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│ Sentinel Chain               │
-│ Verification Layer           │
-└──────────────────────────────┘
-```
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?logo=solana\&logoColor=black)
+![ROS2](https://img.shields.io/badge/ROS2-22314E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 
 ---
 
-## Platform Support
+## Principles
 
-| Platform | Status |
-|-----------|--------|
-| Windows | Supported |
-| Linux | Supported |
-| macOS | Supported |
-| Android | Supported |
-| iOS | Supported |
-| Web | Supported |
-| Embedded Devices | Supported |
-
----
-
-## Technology Stack
-
-### Languages
-
-- Rust
-- Go
-- Python
-- TypeScript
-- C++
-
-### Infrastructure
-
-- Docker
-- Kubernetes
-- Linux
-- Edge Runtime
-
-### Robotics
-
-- ROS2
-- Embedded Systems
-- Computer Vision
-- Sensor Networks
-
-### Blockchain
-
-- Solana
-- On-Chain Attestation
-- Device Verification
-
----
-
-## Open Source Philosophy
-
-Trust should be verifiable.
+Trust must be verifiable.
 
 Infrastructure should be transparent.
 
-Autonomous systems should be secure by design.
+Autonomous systems should be secure by default.
 
-We believe the future of machine coordination will be built through open standards, auditable systems, and developer-first tooling.
-
-Open infrastructure creates stronger ecosystems.
-
----
-
-## Repository Roadmap
-
-### Phase 1
-
-- [ ] sentinel-core
-- [ ] sentinel-agent
-- [ ] sentinel-cloud
-- [ ] sentinel-chain
-- [ ] sentinel-sdk
-
-### Phase 2
-
-- [ ] sentinel-dashboard
-- [ ] sentinel-mobile
-- [ ] sentinel-firmware
-- [ ] sentinel-edge
-
-### Phase 3
-
-- [ ] decentralized trust marketplace
-- [ ] agent reputation framework
-- [ ] robotics coordination network
-- [ ] autonomous device registry
-
----
-
-## Featured Repositories
-
-| Repository | Purpose |
-|------------|---------|
-| sentinel-core | Trust engine and identity registry |
-| sentinel-agent | Agent runtime and coordination |
-| sentinel-cloud | Fleet management backend |
-| sentinel-chain | Solana attestation programs |
-| sentinel-sdk | Developer toolkit |
-| sentinel-docs | Documentation |
+Open standards create stronger ecosystems.
 
 ---
 
 ## Community
 
-We welcome developers, researchers, robotics engineers, infrastructure builders, and security researchers.
+Documentation
+https://sentinels.today/docs
 
-### Resources
-
-- Website: https://sentinels.today
-- Documentation: https://sentinels.today/docs
-- X: https://x.com/sentinelstoday
-- Email: admin@sentinels.today
-- Telegram: TBA
-
----
-
-## Contributing
-
-We believe infrastructure improves through open collaboration.
-
-Contributions, bug reports, design discussions, and research feedback are welcome.
-
----
-
-## Building for the Next Generation of Autonomous Systems
-
-Identity.
-
-Verification.
-
-Coordination.
-
-Trust.
-
-These are the foundations required for machines to operate safely at scale.
-
-SentinelsToday is building that foundation.
-
----
-
-<div align="center">
-
-**Trust Infrastructure for Autonomous Machines**
-
+Website
 https://sentinels.today
+
+X
+https://x.com/sentinelstoday
+
+Email
+[admin@sentinels.today](mailto:admin@sentinels.today)
+
+Telegram
+TBA
+
+---
+
+Built for autonomous systems.
+
+Built for developers.
+
+Built for the future.
 
 </div>
